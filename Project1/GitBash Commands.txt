@@ -5,6 +5,8 @@
 2)To edit username & email:
 -->git config --global --edit
 
+--> git init =>To initilize git.
+
 3)To Add Files To Staging Area:
 -->git add filename.txt => single file
 -->git add filename1.txt filename2.txt => two files
