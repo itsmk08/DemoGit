@@ -14,6 +14,7 @@
 
 4)To commit the changes:
 -->git commit -m "Message(Short Discription about task that you've performed.(Ex=?> "file1.txt removed."))"
+   OR git commit -am "Message" ==>Add and commit at once.
 
 5)To Move To The Any Of the Past Branch/ the Branch you want to use:
 -->git checkout Branch_code(EX=> git checkout b30dar3)
