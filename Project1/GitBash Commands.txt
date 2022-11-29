@@ -23,6 +23,7 @@
 -->git checkout master
 
 7)To Push the code to GitHub:
+-->git remote add origin URL
 -->git push origin master
 
 8)To Clone the File from the remote repository to local repository:
