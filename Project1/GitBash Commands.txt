@@ -22,7 +22,7 @@
 6)To Move to the Current Branch:
 -->git checkout master
 
-7)To Push the code to GitHub:
+7)To Push the files/folder to Git Repository:
 -->git remote add origin URL
 -->git push origin master
 
