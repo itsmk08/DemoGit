@@ -3,3 +3,6 @@ File status lifecycle in Git:
 2)Unmodified:
 3)Modified:
 4)Stage:once commited the files becomes Unmodified(staging->commited->Unmodified)
+
+Ignoring Files in Git:
+1).gitignore file banayera tesvitra igorne garna maan vako file lekhney

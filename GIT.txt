@@ -23,3 +23,5 @@ GITHUB:
 
 7)Repo clone: git clone url
 
+8)touch filename(new file will be created)
+
