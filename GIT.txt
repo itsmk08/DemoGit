@@ -1,0 +1,25 @@
+GIT:
+-It's a version control system software.
+-used for keeping tracks of the project.
+-used to roll back to the previous working state.
+-used to find the issue in the project.(i.e; who and when the issue is made)
+
+GITHUB:
+-It's a web-based hosting service for git repositories.
+
+1)Status check: git status
+
+2)Git Repo(Local Repo lai Git Repo banauna): git init
+
+3)File Add : git add --a //All files ekkai choti add garna
+             git add 01.txt
+	     (git add command le untrack file lai track + staging area ma laney kaam garxa)
+		(multi-line command)
+
+4)Finally Commit: git commit -m "initial commit"
+5)Commit herna: git log
+
+6)Git Repo delete: rm -rf .git(tracking garna xadxa)
+
+7)Repo clone: git clone url
+8)
