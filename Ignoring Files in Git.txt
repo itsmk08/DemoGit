@@ -1,0 +1,5 @@
+File status lifecycle in Git:
+1)Untracked:git add
+2)Unmodified:
+3)Modified:
+4)Stage:once commited the files becomes Unmodified(staging->commited->Unmodified)
