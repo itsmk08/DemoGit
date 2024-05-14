@@ -21,6 +21,8 @@ GITHUB:
 	        git log --oneline
 		git show hashcode
 
+kasley kati bela file ma change gareyko herna: git blame filename
+
 6)Git Repo delete: rm -rf .git(tracking garna xadxa)
 
 7)Repo clone: git clone url
