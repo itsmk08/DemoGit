@@ -18,6 +18,8 @@ GITHUB:
 
 4)Finally Commit: git commit -m "initial commit"
 5)Commit herna: git log
+	        git log --oneline
+		git show hashcode
 
 6)Git Repo delete: rm -rf .git(tracking garna xadxa)
 

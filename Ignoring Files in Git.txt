@@ -6,3 +6,4 @@ File status lifecycle in Git:
 
 Ignoring Files in Git:
 1).gitignore file banayera tesvitra igorne garna maan vako file lekhney
+Blank folder lai bydefault ignore garxa
