@@ -1,0 +1,5 @@
+Reverting Commits in Git:
+
+->Commit1->Commit2->Commit3->Commit4->Commit5(head)
+->Latest node is called as Head.
+->

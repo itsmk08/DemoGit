@@ -17,6 +17,10 @@ GITHUB:
 		(multi-line command)
 
 4)Finally Commit: git commit -m "initial commit"
+        ->Commit baneyko taking a snapshot of the changes.
+	 ***why commit?
+	  ->For reverting back to the previous commit state.
+
 5)Commit herna: git log
 	        git log --oneline
 		git show hashcode
