@@ -4,13 +4,13 @@ Reverting Commits in Git:
 ->Latest node is called as Head.
 
 For Reverting to previous commits:
-1) git reset --hard hashcode
+1) git reset --hard hashcode OR <SHA>
     ->Head lai mathi shift garxa
     ->Teo Head muni ko sabai commit clear hunxa.
 
-2)git revert hashcode
+2)git revert hashcode OR <SHA>
     ->aagadi gareyko commit ko ulto banauxa, matlab teo commit gareyko file
       ma yedi code add gareyko xa vaney remove garxa, remove gareyko vaye add garxa.
 
-3)git show hashcode
+3)git show hashcode OR <SHA>
 ->hashcode ko file ma code dekhauxa.
