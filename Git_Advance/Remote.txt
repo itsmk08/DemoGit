@@ -1,0 +1,10 @@
+GitHub ma Repositories Banauney.
+Local Repo lai link garney Remote Server(Central Server).
+
+->At First, Remote Server Set garney 
+
+->By default the name of Remote Server is origin.
+->For Setting: git remote add origin url
+->For Checking: git remote -v
+
+->now you can either push, pull or fetch to this origin server(Remote Server).
