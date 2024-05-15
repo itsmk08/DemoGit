@@ -11,3 +11,6 @@ For Reverting to previous commits:
 2)git revert hashcode
     ->aagadi gareyko commit ko ulto banauxa, matlab teo commit gareyko file
       ma yedi code add gareyko xa vaney remove garxa, remove gareyko vaye add garxa.
+
+3)git show hashcode
+->hashcode ko file ma code dekhauxa.
