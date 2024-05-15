@@ -8,3 +8,5 @@ Local Repo lai link garney Remote Server(Central Server).
 ->For Checking: git remote -v
 
 ->now you can either push, pull or fetch to this origin server(Remote Server).
+
+->PUSH: git push -u origin main
