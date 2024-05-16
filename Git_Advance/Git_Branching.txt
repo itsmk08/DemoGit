@@ -11,7 +11,16 @@
    After the completion of the task, we merge the branch with the Main Branch.
    During merging, total commits made in the branch are represented by a single big commit.
 
-#For Making Branch: git branch "Branch_Name"         //Branch is made in local repo//
+#For Making Branch: git branch "NewBranch_Name"         //Branch is made in local repo//
 #For Switching Branch: git checkout "Branch_Name"    //Switching to the branch//
-#For Merging Branch: git merge origin/"Branch_Name"         //Merging the branch with the Main Branch//
-#For Deleting Branch: git branch -d "Branch_Name"         //Deleting the branch//
+
+After Adding the code in the new branch, commit is performed. Perform the Push operation.
+During the Push operation, we encounter the error.
+**ERROR***
+-->This New Branch is Only in the Local Repo. It's not available in the Remote server.
+-->So perform: git push --set-upstream origin NewBranch_Name
+
+#For Merging Branch: First I will return to main branch
+                    git merge origin/"NewBranch_Name"         //Merging the branch with the Main Branch//
+                    
+#For Deleting Branch: git branch -d "NewBranch_Name"         //Deleting the branch//
