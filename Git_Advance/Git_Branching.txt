@@ -1,0 +1,17 @@
+-->Suppose, I am working on a project. During that project i have made 6 commits on the Main Branch.
+   Now Suppose i assign a task to friend Ram to do certain work. He performs 4 commits on the same Branch.
+   After his commits, i again made 2 new commits.
+
+   **What is the problem here???
+   -->If the commits made by Ram is wrong or the code has errors,
+      then it becomes difficult to revert his code. It may effect my code.
+   -->The tracking of commits becomes difficult.
+
+-->So while working on a collaborative project, we generally make a new Branch and workon that branch.
+   After the completion of the task, we merge the branch with the Main Branch.
+   During merging, total commits made in the branch are represented by a single big commit.
+
+#For Making Branch: git branch "Branch_Name"         //Branch is made in local repo//
+#For Switching Branch: git checkout "Branch_Name"    //Switching to the branch//
+#For Merging Branch: git merge origin/"Branch_Name"         //Merging the branch with the Main Branch//
+#For Deleting Branch: git branch -d "Branch_Name"         //Deleting the branch//
