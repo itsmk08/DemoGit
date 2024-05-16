@@ -1,0 +1,10 @@
+Secure Socket Shell (SSH) Key:
+  -->enable authorized users to remotely access a computer or other device via access credentials
+
+-->SSH key local machine ma Generate garney.
+   i.e; private and public generate hunxa.
+        public lai Remote server ma copy garne.
+
+        when we push code to the server, then the private and public key are checked.
+        if matched code, access if given to the local machine to push the code.
+        if not matched, then access is denied.
