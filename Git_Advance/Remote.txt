@@ -15,3 +15,9 @@ Local Repo lai link garney Remote Server(Central Server).
 ->PULL: git pull origin main
 
 ->Local repo ko branch check garna: git branch -a
+
+#PUSH garda ko problem:
+   ****error: failed to push some refs to url
+    -->local repo ra Remote repo ko commits sinc navako bela aauxa
+    -->Solve : git pull --rebase origin master
+       yeti gareysi sinc hunxa, then you can push.
