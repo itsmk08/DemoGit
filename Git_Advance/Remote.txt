@@ -7,6 +7,8 @@ Local Repo lai link garney Remote Server(Central Server).
 ->For Setting: git remote add origin url
 ->For Checking: git remote -v
 
+->For Removing the existing remote repo: git remote remove origin
+
 ->now you can either push, pull or fetch to this origin server(Remote Server).
 
 ->PUSH: git push -u origin main
