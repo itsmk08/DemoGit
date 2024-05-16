@@ -7,6 +7,10 @@ GIT:
 GITHUB:
 -It's a web-based hosting service for git repositories.
 
+Git Config:
+      ->git config --global user.name <name_of_user>
+	  ->git config --global user.email <email_of_user>
+
 1)Status check: git status
 
 2)Git Repo(Local Repo lai Git Repo banauna): git init
