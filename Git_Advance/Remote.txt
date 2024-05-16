@@ -11,4 +11,7 @@ Local Repo lai link garney Remote Server(Central Server).
 
 ->now you can either push, pull or fetch to this origin server(Remote Server).
 
-->PUSH: git push -u origin main
+->PUSH: git push -u origin main OR git push origin master
+->PULL: git pull origin main
+
+->Local repo ko branch check garna: git branch -a
