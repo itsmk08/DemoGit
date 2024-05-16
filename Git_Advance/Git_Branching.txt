@@ -22,5 +22,6 @@ During the Push operation, we encounter the error.
 
 #For Merging Branch: First I will return to main branch
                     git merge origin/"NewBranch_Name"         //Merging the branch with the Main Branch//
-                    
+                    Now Push to the Remote repo.
+
 #For Deleting Branch: git branch -d "NewBranch_Name"         //Deleting the branch//
