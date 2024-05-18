@@ -1,0 +1,9 @@
+Ways of Merging branch:
+
+1. First I will return to main branch
+        git merge origin/"NewBranch_Name"         //Merging the branch with the Main Branch//
+
+        --yesley sabai commit lai yeuta single commit banauxa 
+          problem????
+          ->harek commit ma k garey vanney info harauxa.
+          ->Yeuta lai revert garda sabai revert vaidinxa.
