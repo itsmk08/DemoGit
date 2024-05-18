@@ -36,4 +36,5 @@ kasley kati bela file ma change gareyko herna: git blame filename
 7)Repo clone: git clone url
 
 8)touch filename(new file will be created)
+9)
 
