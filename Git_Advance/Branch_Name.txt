@@ -1,0 +1,11 @@
+Way to set a Branch Name
+
+1)wip: works in progress; stuff i know won't be finished soon
+2)feat: features i'm adding or expanding
+3)bug: bugs fix or experiment
+4)junk: throwaway branch created to experiment
+
+-->Suppose i am adding a chating feature in my web page,
+      git branch "feat/add-chat-support" 
+
+      git checkout -b "bug/fixing_bug"   //creates bug/fixing_bug branch and moves to that branch
