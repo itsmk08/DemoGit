@@ -17,3 +17,17 @@ Ways of Merging branch:
 
     Syntax: git rebase origin/"NewBranch_Name"         //Merging the branch with the Main Branch//
             eg: git rebase feat/making_notes
+
+####Stash:
+-->suppose ma local ma work gardai xu, ra mero half kaam matra vako xa ra malai aailey commit garney maan xaina.
+-->So mero sathi ley chai Remote ma update garo ra suppose malai teo code pull garna xa.
+-->so yo condition ma pull hudaina kinavaney remote ma vako change sanga mero local sync vako xaina.
+-->Yo condition ma git stash use garey.
+
+-->Stash command ley yeuta mero incomplete lai temporarily yeuta dir ma rakhxa
+    Syntax: git stash
+
+-->aaba pull garney
+
+-->tespaxi feri teo temporarily dir ma vako code lai add garney 
+    git stash add
