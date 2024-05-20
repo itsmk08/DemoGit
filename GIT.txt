@@ -8,8 +8,28 @@ GITHUB:
 -It's a web-based hosting service for git repositories.
 
 Git Config:
-      ->git config --global user.name <name_of_user>
-	  ->git config --global user.email <email_of_user>
+	Config List: 
+		git config --list
+		
+	To Set config:
+	Syntax: git config --global <list_ko_kunai_pani_yeut> <value>
+	Example: 
+    	->git config --global user.name "name_of_user"
+		->git config --global user.email "email_of_user"
+
+	To Set Default Git Branch Name form Master to main:
+		Syntax: git config --global init.defaultBranch main
+
+	To Remove or Delete Properties from Git Config:
+	Syntax: git  config --unset --global <Name_on_list_you_want_to_remove>
+
+	Example: git config --unset --global user.name
+	
+
+	--global: It's used to set the global config.
+	--local: It's used to set the local config.
+	--system: It's used to set the system config.
+	--global --edit: It's used to edit the global config.
 
 1)Status check: git status
 
