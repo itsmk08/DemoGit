@@ -56,5 +56,13 @@ kasley kati bela file ma change gareyko herna: git blame filename
 7)Repo clone: git clone url
 
 8)touch filename(new file will be created)
-9)
+9)Adding Origin of Remote Repo:
+	git remote add origin url or ssh
+10)For Removing url or ssh of Remote:
+	git remote rm origin
+
+11)Pushing into Git:
+	git push -u origin main
+12)Pulling form git:
+	git pull origin main
 
