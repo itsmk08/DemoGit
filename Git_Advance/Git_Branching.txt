@@ -12,7 +12,7 @@
    During merging, total commits made in the branch are represented by a single big commit.
 
 #For Making Branch: git branch "NewBranch_Name"         //Branch is made in local repo//
-#For Switching Branch: git checkout "Branch_Name"    //Switching to the branch//
+#For Switching Branch: git checkout Branch_Name    //Switching to the branch//
 OR git checkout -b "NewBranch_Name"     //does the work of both the commands
 
 After Adding the code in the new branch, commit is performed. Perform the Push operation.
