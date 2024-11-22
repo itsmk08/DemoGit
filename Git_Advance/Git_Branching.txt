@@ -26,3 +26,5 @@ During the Push operation, we encounter the error.
                     Now Push to the Remote repo.
 
 #For Deleting Branch: git branch -d "NewBranch_Name"         //Deleting the branch//
+                  OR git branch --delete branch_name
+
